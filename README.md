@@ -29,18 +29,70 @@
 
 <hr>
 
-<div>
-
-
-<p style="color:red;">Punainen teksti</p>
-<p style="color:blue;">Sininen teksti</p>
-<p style="color:green;">Vihreä teksti</p>
-<p style="font-family:courier;">Tämä on erilainen fontti.</p>
-<p>Tämä <b>sana</b> on tärkeä</p>
-
-
-</div>
-
 <hr>
 
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
 
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Taulukko</h2>
+
+<table>
+  <tr>
+    <th>Värejä</th>
+    <th>Numeroita</th>
+    <th>Kirjaimia</th>
+  </tr>
+  <tr>
+    <td>Punainen</td>
+    <td>1</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>sininen</td>
+    <td>2</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td>vihreä</td>
+    <td>3</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>keltainen</td>
+    <td>4</td>
+    <td>D</td>
+  </tr>
+  <tr>
+    <td>oranssi</td>
+    <td>5</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <td>violetti</td>
+    <td>6</td>
+    
+     <td>F</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<hr>
