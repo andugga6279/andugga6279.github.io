@@ -80,7 +80,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-  <title>My first styled page</title>
+  <h3>Linkkejä jotka ei toimi</h3>
 </head>
 
 <body>
@@ -106,8 +106,8 @@ anywhere&hellip;
 what yet.
 
 <!-- Sign and date the page, it's only polite! -->
-<address>Made 5 April 2004<br>
-  by myself.</address>
+<address>Tehty 2.3.2021<br>
+ Andrei Shubin.</address>
 
 </body>
 </html>
