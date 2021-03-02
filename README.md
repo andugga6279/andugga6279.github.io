@@ -94,11 +94,11 @@
 </ul>
 
 <!-- Main content -->
-<h1>My first styled page</h1>
+<h1>^^ Hakemisto</h1>
 
 <p> Yläpuolella on minun ensimmäinen hakemisto!
 
-<p>Linkit eivät vie minnekkään.&hellip;
+<p>Linkit eivät vie minnekkään&hellip;
 
 <address>Tehty 2.3.2021<br>
  Andrei Shubin.</address>
