@@ -68,8 +68,7 @@
   <tr>
     <td>violetti</td>
     <td>6</td>
-    
-     <td>F</td>
+    <td>F</td>
   </tr>
 </table>
 
