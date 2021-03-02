@@ -2,6 +2,14 @@
 <html>
 <head>
 </head>
+   <style type="text/css">
+  body {
+    color: purple;
+    background-color: #d8da3d }
+  </style>
+</head>
+
+<body>
 <body>
 
 <h1 style="text-align:center;">Tämä on otsikko</h1>
